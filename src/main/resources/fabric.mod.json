@@ -8,8 +8,8 @@
     "LolHens"
   ],
   "contact": {
-    "homepage": "https://github.com/LolHens/volcanoes",
-    "sources": "https://github.com/LolHens/volcanoes"
+    "homepage": "https://github.com/LolHens/mc-volcanoes",
+    "sources": "https://github.com/LolHens/mc-volcanoes"
   },
   "license": "Apache-2.0",
   "icon": "assets/volcanoes/icon.png",
