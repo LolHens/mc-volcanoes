@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "volcanoes:block/volcano_core"
+    }
+  }
+}
